@@ -1,1 +1,1 @@
-# REPO:Imię/Nazwisko
+# REPO:Bartek/Wiorek
